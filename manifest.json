@@ -1,0 +1,17 @@
+{
+  "name": "SIM-GEDUNG UNSRI",
+  "short_name": "SIM-GEDUNG",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0B1E48",
+  "theme_color": "#0B1E48",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./assets/logo-unsri.png",
+      "sizes": "130x130",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
